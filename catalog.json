@@ -1,0 +1,582 @@
+{
+  "schemaVersion": 1,
+  "revision": 3,
+  "styles": [
+    "Brutalist",
+    "Minimalist",
+    "Editorial",
+    "Bauhaus",
+    "Retro Pixel",
+    "Art Deco",
+    "Soft Pastel"
+  ],
+  "templates": [
+    {
+      "id": "01-brutalist-idea-counter",
+      "name": "Idea clicker",
+      "style": "Brutalist",
+      "keywords": "idea counter",
+      "width": 236,
+      "height": 452,
+      "layers": 20,
+      "document": "01-brutalist/idea-counter.widget.json",
+      "bytes": 41143,
+      "sha256": "c875bab54675892925a0a1f9fa64df169a05ce0d42c4024ab4397e16658a8cea",
+      "preview": {
+        "file": "01-brutalist.png",
+        "bytes": 59833,
+        "sha256": "0968508b34651291359513ff7aaecb34cf7928871511c40ff47a1f448609a923",
+        "x": 63,
+        "y": 70,
+        "width": 218,
+        "height": 416
+      }
+    },
+    {
+      "id": "01-brutalist-focus-session",
+      "name": "Focus terminal",
+      "style": "Brutalist",
+      "keywords": "focus session",
+      "width": 448,
+      "height": 300,
+      "layers": 12,
+      "document": "01-brutalist/focus-session.widget.json",
+      "bytes": 24197,
+      "sha256": "451f08af78f8867767c3b63734520551fd0c4dd71696340207af0123b9cfafa7",
+      "preview": {
+        "file": "01-brutalist.png",
+        "bytes": 59833,
+        "sha256": "0968508b34651291359513ff7aaecb34cf7928871511c40ff47a1f448609a923",
+        "x": 291,
+        "y": 70,
+        "width": 413,
+        "height": 277
+      }
+    },
+    {
+      "id": "01-brutalist-project-deadline",
+      "name": "Hard deadline",
+      "style": "Brutalist",
+      "keywords": "project deadline",
+      "width": 268,
+      "height": 452,
+      "layers": 16,
+      "document": "01-brutalist/project-deadline.widget.json",
+      "bytes": 32017,
+      "sha256": "d452f3131e2409f0dad50797e0629bcebe36e5b723df39af3b4ac5542e1d2476",
+      "preview": {
+        "file": "01-brutalist.png",
+        "bytes": 59833,
+        "sha256": "0968508b34651291359513ff7aaecb34cf7928871511c40ff47a1f448609a923",
+        "x": 714,
+        "y": 70,
+        "width": 247,
+        "height": 416
+      }
+    },
+    {
+      "id": "01-brutalist-priority-checklist",
+      "name": "Priority strip",
+      "style": "Brutalist",
+      "keywords": "priority checklist",
+      "width": 448,
+      "height": 140,
+      "layers": 3,
+      "document": "01-brutalist/priority-checklist.widget.json",
+      "bytes": 6473,
+      "sha256": "f0baa40e8a35fed00180f4677b9b5fd26e1c4a4d05a3915fac3e057352492502",
+      "preview": {
+        "file": "01-brutalist.png",
+        "bytes": 59833,
+        "sha256": "0968508b34651291359513ff7aaecb34cf7928871511c40ff47a1f448609a923",
+        "x": 291,
+        "y": 357,
+        "width": 413,
+        "height": 129
+      }
+    },
+    {
+      "id": "02-minimalist-single-date",
+      "name": "Quiet calendar",
+      "style": "Minimalist",
+      "keywords": "single date",
+      "width": 232,
+      "height": 220,
+      "layers": 19,
+      "document": "02-minimalist/single-date.widget.json",
+      "bytes": 38259,
+      "sha256": "b0031dd9993b5e5d4e2dc2cfc5eac086f8701aab8e3f0d7e729f34589459ff76",
+      "preview": {
+        "file": "02-minimalist.png",
+        "bytes": 62597,
+        "sha256": "ec35c767b00fee050bcc2aecd82f71c7c09aa0c5e3e4bb1266fc0488bf760730",
+        "x": 63,
+        "y": 70,
+        "width": 214,
+        "height": 203
+      }
+    },
+    {
+      "id": "02-minimalist-next-appointment",
+      "name": "Next appointment",
+      "style": "Minimalist",
+      "keywords": "next appointment",
+      "width": 732,
+      "height": 220,
+      "layers": 5,
+      "document": "02-minimalist/next-appointment.widget.json",
+      "bytes": 10302,
+      "sha256": "5e6057208aa0d4e7854b538aeb85cd5a300104a7a61eaa1dff3005d7dcce6364",
+      "preview": {
+        "file": "02-minimalist.png",
+        "bytes": 62597,
+        "sha256": "ec35c767b00fee050bcc2aecd82f71c7c09aa0c5e3e4bb1266fc0488bf760730",
+        "x": 287,
+        "y": 70,
+        "width": 674,
+        "height": 203
+      }
+    },
+    {
+      "id": "02-minimalist-day-fraction",
+      "name": "Today in a line",
+      "style": "Minimalist",
+      "keywords": "day fraction",
+      "width": 608,
+      "height": 220,
+      "layers": 14,
+      "document": "02-minimalist/day-fraction.widget.json",
+      "bytes": 28092,
+      "sha256": "730ba39982f55287538f3e8f8edc9bdea9c44e63520d344ec322f38886476999",
+      "preview": {
+        "file": "02-minimalist.png",
+        "bytes": 62597,
+        "sha256": "ec35c767b00fee050bcc2aecd82f71c7c09aa0c5e3e4bb1266fc0488bf760730",
+        "x": 63,
+        "y": 283,
+        "width": 560,
+        "height": 203
+      }
+    },
+    {
+      "id": "02-minimalist-source-status",
+      "name": "Connection pulse",
+      "style": "Minimalist",
+      "keywords": "source status",
+      "width": 356,
+      "height": 220,
+      "layers": 11,
+      "document": "02-minimalist/source-status.widget.json",
+      "bytes": 22462,
+      "sha256": "de143ce6a7387604e3b916fb2d91c1bcf4a305abd0fffa5954b91f26f0a8c171",
+      "preview": {
+        "file": "02-minimalist.png",
+        "bytes": 62597,
+        "sha256": "ec35c767b00fee050bcc2aecd82f71c7c09aa0c5e3e4bb1266fc0488bf760730",
+        "x": 633,
+        "y": 283,
+        "width": 328,
+        "height": 203
+      }
+    },
+    {
+      "id": "03-editorial-portrait-cover",
+      "name": "Sunday cover",
+      "style": "Editorial",
+      "keywords": "portrait cover",
+      "width": 310,
+      "height": 452,
+      "layers": 7,
+      "document": "03-editorial/portrait-cover.widget.json",
+      "bytes": 285541,
+      "sha256": "50c867210fddc633e925cd3a5fcaddc833296ec1d1ec9c3f8113acd99e2957b6",
+      "preview": {
+        "file": "03-editorial.png",
+        "bytes": 171098,
+        "sha256": "710da2c354ad7ba2690f6b0349c1c4963292bf66d9541067c9ef6dcb81319374",
+        "x": 63,
+        "y": 70,
+        "width": 286,
+        "height": 416
+      }
+    },
+    {
+      "id": "03-editorial-personal-quote",
+      "name": "Words worth keeping",
+      "style": "Editorial",
+      "keywords": "personal quote",
+      "width": 654,
+      "height": 230,
+      "layers": 6,
+      "document": "03-editorial/personal-quote.widget.json",
+      "bytes": 151941,
+      "sha256": "5ddef15f5d5852e209d5467a1cc63d0e6a90a890d6b3e412941797f10fb071c5",
+      "preview": {
+        "file": "03-editorial.png",
+        "bytes": 171098,
+        "sha256": "710da2c354ad7ba2690f6b0349c1c4963292bf66d9541067c9ef6dcb81319374",
+        "x": 359,
+        "y": 70,
+        "width": 602,
+        "height": 212
+      }
+    },
+    {
+      "id": "03-editorial-book-progress",
+      "name": "Reading bookmark",
+      "style": "Editorial",
+      "keywords": "book progress",
+      "width": 318,
+      "height": 210,
+      "layers": 6,
+      "document": "03-editorial/book-progress.widget.json",
+      "bytes": 152004,
+      "sha256": "8598ba5c2d2aee231a0824bc053fcac26bba96c5527e2167a4474d4b7d64adae",
+      "preview": {
+        "file": "03-editorial.png",
+        "bytes": 171098,
+        "sha256": "710da2c354ad7ba2690f6b0349c1c4963292bf66d9541067c9ef6dcb81319374",
+        "x": 359,
+        "y": 292,
+        "width": 293,
+        "height": 194
+      }
+    },
+    {
+      "id": "03-editorial-vocabulary-card",
+      "name": "A word to collect",
+      "style": "Editorial",
+      "keywords": "vocabulary card",
+      "width": 324,
+      "height": 210,
+      "layers": 5,
+      "document": "03-editorial/vocabulary-card.widget.json",
+      "bytes": 149872,
+      "sha256": "17c8c6b2c10f7fdf0027947b073658d720d4c53177a0ac2b4ada13f4858e569d",
+      "preview": {
+        "file": "03-editorial.png",
+        "bytes": 171098,
+        "sha256": "710da2c354ad7ba2690f6b0349c1c4963292bf66d9541067c9ef6dcb81319374",
+        "x": 662,
+        "y": 292,
+        "width": 299,
+        "height": 194
+      }
+    },
+    {
+      "id": "04-bauhaus-steps-distance",
+      "name": "Form in motion",
+      "style": "Bauhaus",
+      "keywords": "steps distance",
+      "width": 480,
+      "height": 252,
+      "layers": 18,
+      "document": "04-bauhaus/steps-distance.widget.json",
+      "bytes": 36515,
+      "sha256": "c053534d91a2274359643ac9078b0cb71a6bcfcd89658a6efd237fcf8d12b30e",
+      "preview": {
+        "file": "04-bauhaus.png",
+        "bytes": 65153,
+        "sha256": "13200bdf404d83ee6bfc886165a70bc8327f7f3983b6c6cbcbebe35baffdf606",
+        "x": 63,
+        "y": 70,
+        "width": 442,
+        "height": 232
+      }
+    },
+    {
+      "id": "04-bauhaus-sleep-hours",
+      "name": "Rest architecture",
+      "style": "Bauhaus",
+      "keywords": "sleep hours",
+      "width": 480,
+      "height": 210,
+      "layers": 14,
+      "document": "04-bauhaus/sleep-hours.widget.json",
+      "bytes": 28676,
+      "sha256": "34fa4bde3ad41a79ee00b23a17d36450b5dd5a7147f99e7f18b62d1aae3afeb1",
+      "preview": {
+        "file": "04-bauhaus.png",
+        "bytes": 65153,
+        "sha256": "13200bdf404d83ee6bfc886165a70bc8327f7f3983b6c6cbcbebe35baffdf606",
+        "x": 515,
+        "y": 70,
+        "width": 443,
+        "height": 194
+      }
+    },
+    {
+      "id": "04-bauhaus-hydration-intake",
+      "name": "Water forms",
+      "style": "Bauhaus",
+      "keywords": "hydration intake",
+      "width": 232,
+      "height": 188,
+      "layers": 7,
+      "document": "04-bauhaus/hydration-intake.widget.json",
+      "bytes": 14568,
+      "sha256": "5738c1c344a927f6a006421f91e3ef99b1fd73de18f10e1a94a1b0b51e3c261c",
+      "preview": {
+        "file": "04-bauhaus.png",
+        "bytes": 65153,
+        "sha256": "13200bdf404d83ee6bfc886165a70bc8327f7f3983b6c6cbcbebe35baffdf606",
+        "x": 63,
+        "y": 312,
+        "width": 214,
+        "height": 174
+      }
+    },
+    {
+      "id": "04-bauhaus-exercise-duration",
+      "name": "Minutes of momentum",
+      "style": "Bauhaus",
+      "keywords": "exercise duration",
+      "width": 232,
+      "height": 188,
+      "layers": 5,
+      "document": "04-bauhaus/exercise-duration.widget.json",
+      "bytes": 10303,
+      "sha256": "38b3039433aff91018b1daeea54c329f2d868eea5a9196c3cf171e9c7ffcb47d",
+      "preview": {
+        "file": "04-bauhaus.png",
+        "bytes": 65153,
+        "sha256": "13200bdf404d83ee6bfc886165a70bc8327f7f3983b6c6cbcbebe35baffdf606",
+        "x": 291,
+        "y": 312,
+        "width": 214,
+        "height": 174
+      }
+    },
+    {
+      "id": "04-bauhaus-active-energy",
+      "name": "Energy composition",
+      "style": "Bauhaus",
+      "keywords": "active energy",
+      "width": 480,
+      "height": 230,
+      "layers": 7,
+      "document": "04-bauhaus/active-energy.widget.json",
+      "bytes": 14277,
+      "sha256": "b303cbb785db331ea396f8c1d6dbf3ced84d58b888882b833d906ae746e1b2c6",
+      "preview": {
+        "file": "04-bauhaus.png",
+        "bytes": 65153,
+        "sha256": "13200bdf404d83ee6bfc886165a70bc8327f7f3983b6c6cbcbebe35baffdf606",
+        "x": 515,
+        "y": 274,
+        "width": 443,
+        "height": 212
+      }
+    },
+    {
+      "id": "05-retro-pixel-pixel-battery-hearts",
+      "name": "Pocket power HUD",
+      "style": "Retro Pixel",
+      "keywords": "pixel battery hearts",
+      "width": 800,
+      "height": 132,
+      "layers": 36,
+      "document": "05-retro-pixel/pixel-battery-hearts.widget.json",
+      "bytes": 230897,
+      "sha256": "9952e70db8713e4a7e994532aa3bdfe27fe8e0528a1ea5c8fdc8fa6ac115c403",
+      "preview": {
+        "file": "05-retro-pixel.png",
+        "bytes": 36016,
+        "sha256": "e8564978ceafc53b37b09d0349b18ba10a2ae385a454b5d0d6165ecf7c7ad0da",
+        "x": 144,
+        "y": 70,
+        "width": 737,
+        "height": 122
+      }
+    },
+    {
+      "id": "05-retro-pixel-pixel-weather",
+      "name": "Pixel forecast",
+      "style": "Retro Pixel",
+      "keywords": "pixel weather",
+      "width": 384,
+      "height": 308,
+      "layers": 22,
+      "document": "05-retro-pixel/pixel-weather.widget.json",
+      "bytes": 203289,
+      "sha256": "4f2057fbd1b7b1f157dd262713cb3ba4140d20f84c0318bf655a84e8c5570c50",
+      "preview": {
+        "file": "05-retro-pixel.png",
+        "bytes": 36016,
+        "sha256": "e8564978ceafc53b37b09d0349b18ba10a2ae385a454b5d0d6165ecf7c7ad0da",
+        "x": 63,
+        "y": 202,
+        "width": 354,
+        "height": 284
+      }
+    },
+    {
+      "id": "05-retro-pixel-habit-experience",
+      "name": "Habit experience",
+      "style": "Retro Pixel",
+      "keywords": "habit experience",
+      "width": 580,
+      "height": 148,
+      "layers": 23,
+      "document": "05-retro-pixel/habit-experience.widget.json",
+      "bytes": 205179,
+      "sha256": "b469906e42cd0e44ede73c85b03a9548000644788256f615a4e505bea7e137d1",
+      "preview": {
+        "file": "05-retro-pixel.png",
+        "bytes": 36016,
+        "sha256": "e8564978ceafc53b37b09d0349b18ba10a2ae385a454b5d0d6165ecf7c7ad0da",
+        "x": 427,
+        "y": 202,
+        "width": 534,
+        "height": 137
+      }
+    },
+    {
+      "id": "05-retro-pixel-shortcut-launchpad",
+      "name": "Launch pad",
+      "style": "Retro Pixel",
+      "keywords": "shortcut launchpad",
+      "width": 580,
+      "height": 148,
+      "layers": 18,
+      "document": "05-retro-pixel/shortcut-launchpad.widget.json",
+      "bytes": 194830,
+      "sha256": "90223be136cbc24fadd4950a7e74b363db2f5b39c897116135ebf281e98177dc",
+      "preview": {
+        "file": "05-retro-pixel.png",
+        "bytes": 36016,
+        "sha256": "e8564978ceafc53b37b09d0349b18ba10a2ae385a454b5d0d6165ecf7c7ad0da",
+        "x": 427,
+        "y": 349,
+        "width": 534,
+        "height": 137
+      }
+    },
+    {
+      "id": "06-art-deco-three-city-world-clock",
+      "name": "The world salon",
+      "style": "Art Deco",
+      "keywords": "three city world clock",
+      "width": 646,
+      "height": 452,
+      "layers": 36,
+      "document": "06-art-deco/three-city-world-clock.widget.json",
+      "bytes": 253242,
+      "sha256": "9ef030d365969194d16373ada690205305b5a054b1195b57115cf91a0c785729",
+      "preview": {
+        "file": "06-art-deco.png",
+        "bytes": 88505,
+        "sha256": "2f1e54985629a07356926f69d279d3ec60a95198a3ccaeb5aed7967d153d7536",
+        "x": 63,
+        "y": 70,
+        "width": 595,
+        "height": 416
+      }
+    },
+    {
+      "id": "06-art-deco-year-progress",
+      "name": "Year in gold",
+      "style": "Art Deco",
+      "keywords": "year progress",
+      "width": 318,
+      "height": 220,
+      "layers": 21,
+      "document": "06-art-deco/year-progress.widget.json",
+      "bytes": 219120,
+      "sha256": "47217d0ed80dfc454d375bea128f898bffdf5d3bf49215f0e84172bb29587c98",
+      "preview": {
+        "file": "06-art-deco.png",
+        "bytes": 88505,
+        "sha256": "2f1e54985629a07356926f69d279d3ec60a95198a3ccaeb5aed7967d153d7536",
+        "x": 668,
+        "y": 70,
+        "width": 293,
+        "height": 203
+      }
+    },
+    {
+      "id": "06-art-deco-personal-monogram",
+      "name": "Personal crest",
+      "style": "Art Deco",
+      "keywords": "personal monogram",
+      "width": 318,
+      "height": 220,
+      "layers": 19,
+      "document": "06-art-deco/personal-monogram.widget.json",
+      "bytes": 214815,
+      "sha256": "78a3e027fff573a4eb7aafabe7d349b8eb670e2b88eea4f10614bced2d7b77bc",
+      "preview": {
+        "file": "06-art-deco.png",
+        "bytes": 88505,
+        "sha256": "2f1e54985629a07356926f69d279d3ec60a95198a3ccaeb5aed7967d153d7536",
+        "x": 668,
+        "y": 283,
+        "width": 293,
+        "height": 203
+      }
+    },
+    {
+      "id": "07-soft-pastel-music-player",
+      "name": "Little listening room",
+      "style": "Soft Pastel",
+      "keywords": "music player",
+      "width": 480,
+      "height": 232,
+      "layers": 18,
+      "document": "07-soft-pastel/music-player.widget.json",
+      "bytes": 414749,
+      "sha256": "a6d4dc7c73aef335a606666a2fc2fa2b4473bc1259146dce2b147915964cb63e",
+      "preview": {
+        "file": "07-soft-pastel.png",
+        "bytes": 97613,
+        "sha256": "20d0b79cfdf31833c869154915f8de0b8ade021f85c53c1b1364b4c85cac609d",
+        "x": 63,
+        "y": 70,
+        "width": 442,
+        "height": 214
+      }
+    },
+    {
+      "id": "07-soft-pastel-mood-checkin",
+      "name": "A mood moment",
+      "style": "Soft Pastel",
+      "keywords": "mood checkin",
+      "width": 480,
+      "height": 208,
+      "layers": 9,
+      "document": "07-soft-pastel/mood-checkin.widget.json",
+      "bytes": 396668,
+      "sha256": "f3908881b51c0550d8373acf5ff961c9f27b496289b6445af05ea2cb35a1e130",
+      "preview": {
+        "file": "07-soft-pastel.png",
+        "bytes": 97613,
+        "sha256": "20d0b79cfdf31833c869154915f8de0b8ade021f85c53c1b1364b4c85cac609d",
+        "x": 63,
+        "y": 294,
+        "width": 442,
+        "height": 192
+      }
+    },
+    {
+      "id": "07-soft-pastel-pinned-note",
+      "name": "A thought to keep",
+      "style": "Soft Pastel",
+      "keywords": "pinned note",
+      "width": 484,
+      "height": 452,
+      "layers": 12,
+      "document": "07-soft-pastel/pinned-note.widget.json",
+      "bytes": 402741,
+      "sha256": "f54fb8b5e5e95c439b1bc34e33c624b7eb7613bd533b8f791e06e8681f88f145",
+      "preview": {
+        "file": "07-soft-pastel.png",
+        "bytes": 97613,
+        "sha256": "20d0b79cfdf31833c869154915f8de0b8ade021f85c53c1b1364b4c85cac609d",
+        "x": 515,
+        "y": 70,
+        "width": 446,
+        "height": 416
+      }
+    }
+  ]
+}
